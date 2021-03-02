@@ -2,7 +2,7 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by [Liuming](https://github.com/Lomanfan)for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Liuming](https://github.com/Lomanfan) for the Lighthouse Labs Web Development Bootcamp.
 
 
 Markdown Note: 
